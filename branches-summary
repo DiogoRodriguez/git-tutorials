@@ -1,0 +1,5 @@
+git branch –a
+git branch bug_fix
+git log –-oneline
+git checkout –b <branch>
+git branch <branch name> <commit identifier>
