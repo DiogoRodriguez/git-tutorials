@@ -1,0 +1,4 @@
+git status : check status and see what has changed.
+git add : add a changed file or a new file to be committed.
+git diff : see the changes between the current version of a file and the version of the file most recently committed.
+git commit : commit changes to the history.
